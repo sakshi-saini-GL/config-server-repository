@@ -10,8 +10,8 @@ server:
 
 
 spring:
-#   main:
-#     web-application-type: reactive
+  main:
+    web-application-type: reactive
   application:
     name: api-gateway
 #   cloud:
